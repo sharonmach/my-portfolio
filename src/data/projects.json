@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Online Attendance System",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest react js by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Church Website",
+    "imageSrc": "projects/desk.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Vuejs", "Nuxt"],
+    "demo": "mohassemblies.org",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Wordpress Websites",
+    "imageSrc": "projects/stair.jpg",
+    "description": "Worked on wordpress websites for different companies.",
+    "skills": ["Wordpress", "Express"],
+    "demo": "https://mykurasa.com/",
+    "source": "https://www.github.com"
+  }
+]

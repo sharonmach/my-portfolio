@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "ICTA",
+    "startDate": "December, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on an attendance system",
+      "Reduced load times by 50%"
+    ],
+    "imageSrc": "history/ictalogo.png"
+  },
+  {
+    "role": "Vue js Web Intern",
+    "organisation": "Upscale Technologies",
+    "startDate": "July, 2023",
+    "endDate": "December, 2023",
+    "experiences": [
+      "Worked on credit notes Module",
+      "Worked on a church website"
+    ],
+    "imageSrc": "history/upscale2.jpg"
+  },
+  {
+    "role": "Junior Wordpress Developer",
+    "organisation": "Virtual Worker Now [Offtech Inc.]",
+    "startDate": "March, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on ME Radio website"],
+    "imageSrc": "history/VWN.webp"
+  }
+]
